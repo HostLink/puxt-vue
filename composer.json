@@ -1,0 +1,13 @@
+{
+    "name": "hostlink/puxt-vue-loader",
+    "description": "A vue loader for puxt",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Raymond Chong",
+            "email": "mathsgod@yahoo.com"
+        }
+    ],
+    "require": {}
+}
